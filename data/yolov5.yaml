@@ -1,0 +1,5 @@
+train: E:\project\FILES\25_3_25_backup\Final_Dataset/mango/Mulit/Autoclassi/train/images
+val: E:\project\FILES\25_3_25_backup\Final_Dataset/mango/Mulit/Autoclassi/valid/images
+nc: 4
+class_weights: [1.0, 1.1527213647441106,4.231610337972167, 1.097872340425532]  # Higher weight for underrepresented classes
+names: ['anthracnose','bacterial_canker','die_black','sooty_mould']
